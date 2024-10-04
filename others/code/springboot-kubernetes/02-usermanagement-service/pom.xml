@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.4.RELEASE</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 	<groupId>com.stacksimplify</groupId>
 	<artifactId>usermanagement-microservice</artifactId>
@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.5</version>
+			<version>2.14.0</version>
 		</dependency>
 
 		<dependency>
